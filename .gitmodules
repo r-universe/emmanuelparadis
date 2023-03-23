@@ -8,3 +8,18 @@
 	url = https://github.com/emmanuelparadis/ape
 	shallow = true
 	registered = true
+[submodule "coalescentMCMC"]
+	path = coalescentMCMC
+	url = https://github.com/cran/coalescentMCMC
+	shallow = true
+	registered = true
+[submodule "distory"]
+	path = distory
+	url = https://github.com/cran/distory
+	shallow = true
+	registered = true
+[submodule "pegas"]
+	path = pegas
+	url = https://github.com/cran/pegas
+	shallow = true
+	registered = true
