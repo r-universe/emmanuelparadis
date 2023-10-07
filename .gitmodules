@@ -14,3 +14,6 @@
 [submodule "pegas"]
 	path = pegas
 	url = https://github.com/cran/pegas
+[submodule "tigers"]
+	path = tigers
+	url = https://github.com/emmanuelparadis/tigers
