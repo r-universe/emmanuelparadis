@@ -17,3 +17,6 @@
 [submodule "tigers"]
 	path = tigers
 	url = https://github.com/emmanuelparadis/tigers
+[submodule "voronoifortune"]
+	path = voronoifortune
+	url = https://github.com/emmanuelparadis/voronoifortune
