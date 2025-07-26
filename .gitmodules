@@ -11,6 +11,9 @@
 [submodule "distory"]
 	path = distory
 	url = https://github.com/cran/distory
+[submodule "hann"]
+	path = hann
+	url = https://github.com/emmanuelparadis/hann
 [submodule "pegas"]
 	path = pegas
 	url = https://github.com/cran/pegas
